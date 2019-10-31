@@ -1,0 +1,62 @@
+01 如何使用 Firebase - 操作 Storage
+02 如何使用 Firebase - 建立帳戶篇
+03 如何使用 Firebase - 用 Android Studio 建立帳戶篇 
+04 如何不用 USB 線就可以安裝 apk 到手機上
+05 如何使用Runtime Permission-使用EasyPermissions
+06 如何使用ContentProvider-簡介
+07 如何使用Toast
+08 如何將專案內的git push到github上面
+09 如何解決CheckBox在RecyclerView錯亂的Bug
+10 如何使用LinearLayout
+11 如何使用TimePickerDialog
+12 如何使用Spinner(下拉式選單)
+13 電子書
+14 如何使用DatePickerDialog
+15 如何跟PHP Server溝通-傳送JSON
+16 如何跟PHP Server溝通-檔案上傳
+17 如何跟PHP Server溝通-檔案上傳(HttpUrlConnection)
+18 如何使用SharedPreferences
+19 如何跟PHP Server溝通-XMAPP設定
+20 如何在Android存讀檔案
+21 將程式碼轉成網頁格式
+22 如何使用ListView
+23 如何使用Handler
+24 如何使用Thread和Handler
+25 如何使用TextInputLayout
+26 如何使用RadioButton
+27 如何使用Toggle Button
+28 如何使用EditText
+29 如何使用CheckBox
+30 如何使用RecyclerView
+31 如何使用CoordinatorLayout搭配AppBarLayout
+32 如何使用SnapHelper
+33 如何使用Gson
+34 如何使用TabLayout
+35 如何使用Notification
+36 如何使用ViewPager
+37 如何使用ViewPager+TabLayout
+38 如何讓TabLayout的Tab自動延展
+39 如何讓TabLayout呈現在下方
+40 如何使用BaseAdapter自訂ListView
+41 如何使用Fragment
+42 如何使用ViewPager+TabLayout+Toolbar
+43 如何使用Toolbar+DrawerLayout+Tab+SwipRefresh
+44 書單-觀念書
+45 書單-休閒書
+46 書單-工具書
+47 如何使用Button
+48 如何使用BroadcastReceiver
+49 如何使用 Firebase - 使用 Notification
+50 如何使用 Badge Count (桌面圖示計數)
+51 如何使用DrawerLayout
+52 如何使用Java 8 Lambda 基礎概念
+53 如何寫一個檔案總管(FilesManager)-新增-刪除-修改
+54 如何使用OkHttp
+55 如何在Android 5.0以上使用Notification icon
+56 如何使用全螢幕的 DialogFragment
+57 如何解決Android Studio自動搜尋失效的問題
+58 如何使用 Retrofit 基礎操作
+67 如何使用AlertDialog
+71 如何使用 Firebase - 操作 Authentication - 註冊與登入帳戶
+76 如何使用 Firebase - 操作 Authentication - 管理 User
+
