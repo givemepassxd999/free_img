@@ -21,10 +21,10 @@
 21 將程式碼轉成網頁格式
 22 如何使用ListView
 23 如何使用Handler
-24 如何使用Thread和Handler
+24 如何使用AutoCompleteTextView
 25 如何使用TextInputLayout
 26 如何使用RadioButton
-27 如何使用Toggle Button
+27 
 28 如何使用EditText
 29 如何使用CheckBox
 30 如何使用RecyclerView
@@ -38,7 +38,7 @@
 38 如何讓TabLayout的Tab自動延展
 39 如何讓TabLayout呈現在下方
 40 如何使用BaseAdapter自訂ListView
-41 如何使用Fragment
+41 
 42 如何使用ViewPager+TabLayout+Toolbar
 43 如何使用Toolbar+DrawerLayout+Tab+SwipRefresh
 44 書單-觀念書
@@ -58,8 +58,21 @@
 58 如何使用 Retrofit 基礎操作
 59 如何使用Floating Action Button
 60 如何使用 PercentRelativeLayout
+61 如何取得電池資訊
+62 如何使用ThreadPool
 63 如何使用Runtime Permission
+64 如何在Toolbar使用Menu
+65 如何使用Menu
+66 如何使用RecyclerView-操作LayoutManager
 67 如何使用AlertDialog
+68 如何使用Toggle Button
+69 如何使用GridView
+70 如何使用ProgressDialog
 71 如何使用 Firebase - 操作 Authentication - 註冊與登入帳戶
+75 如何使用Fragment
 76 如何使用 Firebase - 操作 Authentication - 管理 User
-
+77 如何使用CountDownTimer
+78 如何使用Thread和Handler
+79 如何動態增減自訂ListView
+86 如何使用DialogFragment
+96 如何使用ProgressDialog的替代方案
