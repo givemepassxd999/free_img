@@ -24,7 +24,7 @@
 24 如何使用AutoCompleteTextView
 25 如何使用TextInputLayout
 26 如何使用RadioButton
-27 
+27 如何使用Service
 28 如何使用EditText
 29 如何使用CheckBox
 30 如何使用RecyclerView
@@ -38,7 +38,7 @@
 38 如何讓TabLayout的Tab自動延展
 39 如何讓TabLayout呈現在下方
 40 如何使用BaseAdapter自訂ListView
-41 
+41 如何使用RxJava的執行緒切換
 42 如何使用ViewPager+TabLayout+Toolbar
 43 如何使用Toolbar+DrawerLayout+Tab+SwipRefresh
 44 書單-觀念書
@@ -46,7 +46,7 @@
 46 書單-工具書
 47 如何使用Button
 48 如何使用BroadcastReceiver
-49 如何使用 Firebase - 使用 Notification
+49 leetcode
 50 如何使用 Badge Count (桌面圖示計數)
 51 如何使用DrawerLayout
 52 如何使用Java 8 Lambda 基礎概念
@@ -74,5 +74,13 @@
 77 如何使用CountDownTimer
 78 如何使用Thread和Handler
 79 如何動態增減自訂ListView
+80 如何使用 RxJava Compose
+81 如何使用 Scope Functions
 86 如何使用DialogFragment
 96 如何使用ProgressDialog的替代方案
+105 如何使用指紋辨識（for Android P)
+115 如何使用Android MVVM架構(一)-使用ViewModel、LiveData、Factory以及Repository
+125 如何使用Android MVVM 架構(二)-使用 Retrofit
+126 Android MVVM 架構(三)-使用 RxJava
+137 如何使用 Firebase - 使用 Notification
+175 如何使用高階函式和Lambda(Higher-order Functions and Lambdas)
