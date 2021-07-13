@@ -69,6 +69,9 @@
 69 如何使用GridView
 70 如何使用ProgressDialog
 71 如何使用 Firebase - 操作 Authentication - 註冊與登入帳戶
+72 如何在 Kotlin 的 Collection API 迴圈內跳出
+73 如何使用 inline 函式
+74 如何分辨method 和 function 以及 argument 和 parameter 的差異
 75 如何使用Fragment
 76 如何使用 Firebase - 操作 Authentication - 管理 User
 77 如何使用CountDownTimer
@@ -76,9 +79,33 @@
 79 如何動態增減自訂ListView
 80 如何使用 RxJava Compose
 81 如何使用 Scope Functions
+82 如何使用 Chromecast
+83 如何使用Chromecast - 投放按鈕操作
+84 如何使用MediaPlayer-簡介
+85 如何使用MediaPlayer-使用 MediaController 與 MediaSession 
 86 如何使用DialogFragment
+87 如何理解 SOLID
+88 如何使用MediaPlayer-MediaBrowserService
+89 如何使用MediaPlayer-MediaBrowserClient
+90 如何使用 Kotlin 的集合轉換
+91 如何使用 Collection Filtering
+92 如何使用 Extensions
+93 如何使用區間與數列
+94 如何使用 Properties 和 Fields
+95 如何使用 Object 表達式以及宣告 Object
 96 如何使用ProgressDialog的替代方案
+97 如何使用 Nested 和 Inner Classes
+98 如何使用 Sealed Classes
+99 如何使用 Iterators
+100 如何使用 Grouping
+101 如何使用觀察者模式
+102 如何取出部分集合
+103 如何取出集合中的單個元素
+104 如何使用 minus 和 plus 運算子(operator)
 105 如何使用指紋辨識（for Android P)
+106 如何使用交換兩個變數的值(swap)
+107 如何使用集合排序(Collection Ordering)
+108 如何使用 Delegated Properties
 115 如何使用Android MVVM架構(一)-使用ViewModel、LiveData、Factory以及Repository
 125 如何使用Android MVVM 架構(二)-使用 Retrofit
 126 Android MVVM 架構(三)-使用 RxJava
